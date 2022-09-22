@@ -30,8 +30,8 @@ def circle(height):
               print("*", end=" ")
            else: 
                 print(" ", end=" ")
-        print(" ")
-    print("\n")
+           print(" ")
+        print("\n")
 
 
 z= int(input("enter how many shape: "))
